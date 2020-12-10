@@ -1,2 +1,1 @@
-# TMPAsm
-Implementing TMPAsm Language using template metaprogramming in C++
+# jnp1-computer
